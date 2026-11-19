@@ -5,7 +5,7 @@ PuzzleOne
 
 Main Game 
 
-<img width="916" height="539" alt="Image" src="https://github.com/user-attachments/assets/1cc865f3-3578-48f7-ae4f-3ff8d5cfcfee" />
+<img width="920" height="553" alt="Screenshot 2026-11-19 at 11 37 39 AM" src="https://github.com/user-attachments/assets/89d1f799-d725-4bf2-af66-42ab71b210f5" />
 
 Home
 
@@ -14,3 +14,7 @@ Home
 Setting
 
 <img width="917" height="536" alt="Screenshot 2025-08-05 at 2 53 52 PM" src="https://github.com/user-attachments/assets/5bc87d19-cf5d-48b5-ae27-fea5bb0b93e5" />
+
+Map Overview
+
+<img width="919" height="508" alt="Screenshot 2026-11-19 at 11 37 53 AM" src="https://github.com/user-attachments/assets/04ea8b8d-0b22-45a3-bf3c-7920599256cd" />
