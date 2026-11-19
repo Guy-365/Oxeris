@@ -10,9 +10,8 @@ Main Game
 Home
 <img width="924" height="555" alt="Screenshot 2026-11-19 at 11 47 52 AM" src="https://github.com/user-attachments/assets/1f9348bc-2eda-461f-b040-1192291d914f" />
 
-
 Setting
-<img width="917" height="536" alt="Screenshot 2025-08-05 at 2 53 52 PM" src="https://github.com/user-attachments/assets/5bc87d19-cf5d-48b5-ae27-fea5bb0b93e5" />
+<img width="924" height="562" alt="Screenshot 2026-11-19 at 11 49 32 AM" src="https://github.com/user-attachments/assets/8c1eea9e-6458-4ca5-b449-b62dac2fc279" />
 
 Map Overview
 <img width="919" height="508" alt="Screenshot 2026-11-19 at 11 37 53 AM" src="https://github.com/user-attachments/assets/04ea8b8d-0b22-45a3-bf3c-7920599256cd" />
